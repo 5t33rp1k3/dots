@@ -1,0 +1,3 @@
+OPTIONS=color, !cmdassist, norest_on_space
+OPTIONS=dogname:pepe, catname:pepe, horsename:pepe, fruit:pineapple
+SYMBOLS=S_ghost:8, S_boulder:0
