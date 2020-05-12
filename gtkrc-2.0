@@ -1,0 +1,7 @@
+icon-theme-name = "Numix"
+gtk-theme-name = "Nord"
+gtk-font-name = "Dejavu Sans Mono 12"
+gtk-menu-images = 0
+gtk-enable-event-sounds = 0
+gtk-enable-input-feedback-sounds = 0
+gtk-xft-antialias = 1
